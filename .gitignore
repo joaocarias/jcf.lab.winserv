@@ -1,0 +1,53 @@
+# Build e publicação
+bin/
+obj/
+out/
+publish/
+publicado/
+
+# Capturas e logs
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.ico
+*.log
+*.tmp
+*.bak
+*.old
+Capturas/
+C:\Capturas/
+
+# Configurações locais do Visual Studio/VS Code
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pacotes
+packages/
+*.nupkg
+*.snupkg
+
+# Arquivos temporários
+*.DS_Store
+*.Thumbs.db
+
+# Sistema operacional
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Rider / JetBrains
+.idea/
+
+# Logs gerados
+erros.txt
+
+# Diretórios de publicação
+release/
