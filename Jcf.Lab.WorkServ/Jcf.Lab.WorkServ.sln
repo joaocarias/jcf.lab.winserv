@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jcf.Lab.WorkServ.Capt", "Jcf.Lab.WorkServ.Capt\Jcf.Lab.WorkServ.Capt.csproj", "{7DCACC42-3661-4616-8AD0-593CC0F5B63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevWifiMonitor", "SevWifiMonitor\SevWifiMonitor.csproj", "{EC130B29-CE41-420F-8B64-F2F93F7B982E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7DCACC42-3661-4616-8AD0-593CC0F5B63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCACC42-3661-4616-8AD0-593CC0F5B63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCACC42-3661-4616-8AD0-593CC0F5B63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC130B29-CE41-420F-8B64-F2F93F7B982E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC130B29-CE41-420F-8B64-F2F93F7B982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC130B29-CE41-420F-8B64-F2F93F7B982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC130B29-CE41-420F-8B64-F2F93F7B982E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
